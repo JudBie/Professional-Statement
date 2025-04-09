@@ -4,7 +4,7 @@
 
 The purpose of the Professional Statement project was for me to summarize my skills and values and to highlight how they can benefit the cybersecurity field. 
 
-### Skills Learned
+### What I Learned
 - Understoood what skills the cybersecuirty field needs.
 - What other skills I can gain to help me further in this field.
 - Understanding what is required in order to get a job in cybersecurity.
